@@ -1,17 +1,27 @@
-# Exemplos básicos - Introdução aos Testes Unitários
+# [TITLE]
 
-## Instalação / Configuração
+<a href="https://www.youtube.com/watch?v=-flGlyEHBfU" target="_blank">
+ <img src="http://img.youtube.com/vi/-flGlyEHBfU/mqdefault.jpg" alt="Watch the video" border="10" />
+</a>
 
-> Rode esses comandos no seu terminal. Eles irão:
->
-> 1. Criar um novo diretório
-> 2. Acessar o novo diretório
-> 3. Inicializar um projeto Node no repositório
-> 4. Instalar o jest
+> Clique na imagem acima e assista o vídeo!
 
-```sh
-mkdir yt-unit-tests-jest
-cd yt-unit-tests-jest
-npm init -y
-npm install --save-dev jest
-```
+## ☕ Material de apoio
+
+- TBD:
+
+## 🤝 Autor
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#" title="Manual Do Front">
+        <img src="https://avatars.githubusercontent.com/u/179880896" width="100px;" alt="Manual do Front GitHub Picture"/><br>
+        <sub>
+          <b>Manual do Front</b> <br>
+          <i>@manualdofront</i>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
