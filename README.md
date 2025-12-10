@@ -1,14 +1,16 @@
-# [TITLE]
+# Testes Unitários no Frontend 🛠️✨
 
-<a href="https://www.youtube.com/watch?v=-flGlyEHBfU" target="_blank">
- <img src="http://img.youtube.com/vi/-flGlyEHBfU/mqdefault.jpg" alt="Watch the video" border="10" />
+<a href="https://www.youtube.com/playlist?list=PLRVYQGMz5x2Y4NhqFI48usszCOtfPELM2" target="_blank">
+ <img src="http://img.youtube.com/vi/nPyNa7n9Z0s/mqdefault.jpg" alt="Watch the video" border="10" />
 </a>
 
-> Clique na imagem acima e assista o vídeo!
+> Clique na imagem acima e conheça a playlist desse curso!
 
 ## ☕ Material de apoio
 
-- TBD:
+- Documentação Jest: https://jestjs.io/
+
+- Documentação Testing Library: https://testing-library.com/
 
 ## 🤝 Autor
 
