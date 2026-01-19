@@ -55,4 +55,18 @@ describe('TaskItem', () => {
       'bg-green-500 border-green-500 text-white',
     );
   });
+
+  it('should render a traced text title if the task is completed', async () => {
+    cleanup();
+    render(
+      <TaskItem
+        task={{ ...mockTask, completed: true }}
+        onDelete={mockOnDelete}
+        onToggle={mockOnToggle}
+      />,
+    );
+
+    const title = screen.getByText('Test Task');
+    expect(title.className).toContain('line-through text-gray-500');
+  });
 });
